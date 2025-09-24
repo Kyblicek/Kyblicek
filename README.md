@@ -12,9 +12,6 @@ My name is Jakub, and I work in both web and app development. I’ve been close 
 ![](https://nirzak-streak-stats.vercel.app/?user=Kyblicek&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyblicek&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Kyblicek&icon=5&color=2)](https://visitcount.itsvg.in)
 
